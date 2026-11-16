@@ -25,7 +25,7 @@ int main(void)
         y = g * t * t / 2.0;
     }
  
-    printf("%.3f\n", v);
+     printf("%.3f\n", v);
  
     return 0;
 }
